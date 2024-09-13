@@ -1,4 +1,4 @@
-[![MasterHead]([https://in.pinterest.com/pin/567523990538356835/](https://pin.it/4XMYVRkMk))](https://shivamtalkss.io)
+[![MasterHead]([https://in.pinterest.com/pin/567523990538356835/](https://pin.it/4XMYVRkMk))]
 <h1 align="center">Hi 👋, I'm Shivam Pathak</h1>
 <h3 align="center">Third-year Student Pursuing Computer Science and Engineering at Lovely Professional University, Punjab.</h3>
 
